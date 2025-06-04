@@ -1,0 +1,6 @@
+[
+  {
+    "role": "user",
+    "content": "The deployment failed with the following error from Fly.io:\n\nError: failed to set final release status: Post \"https://api.fly.io/graphql\": EOF\n\nPlease fix the issue."
+  }
+]
